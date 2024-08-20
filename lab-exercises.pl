@@ -75,7 +75,7 @@ isDescendant(X,Y) :- isChild(X,Z), isDescendant(Z,Y).
 
 % `shareAncestor/3`
 
-shareAncestor(X,Y,Z) :- isAncestor(Z,X), isAncestor(Z,Y).
+shareAncestor(X,Y,Z) :- isAncestor(Z,X), isAncestor(Z,Y), X \= Y.
 
 
 % `shareMostRecentAncestor/3`
@@ -84,8 +84,7 @@ shareMostRecentAncestor(X,Y,A) :-
     shareAncestor(X,Y,A),
     \+ (
         isParent(A,B),
-        isAncestor(B,X),
-        isAncestor(B,Y)
+        shareAncestor(X,Y,B)
     ).
 
 
