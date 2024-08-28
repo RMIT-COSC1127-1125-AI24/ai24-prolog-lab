@@ -1,4 +1,4 @@
-# ai23-prolog-lab
+# AI24 Prolog Lab
 
 This repository contains all of the Prolog code for Harry Porter's AI24 Prolog lab. All exercises are contained in the `lab-exercises.pl` file.
 
