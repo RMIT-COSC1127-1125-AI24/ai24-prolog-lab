@@ -110,7 +110,6 @@ westernMansiIsExtinct.
 yolaIsExtinct.
 yuratsIsExtinct.
 zazaGoraniIsExtinct.
-.
 aegeanIsLanguage.
 aequianIsLanguage.
 afrikaansIsLanguage.
@@ -405,7 +404,6 @@ yolaIsLanguage.
 yuratsIsLanguage.
 zazaGoraniIsLanguage.
 zazakiIsLanguage.
-.
 achaeanIsParentOfArcado.
 achaeanIsParentOfCypriot.
 aeolicIsParentOfAegean.
@@ -774,7 +772,6 @@ westernSouthSlavicIsParentOfSerboCroatian.
 westernSouthSlavicIsParentOfSlovene.
 zazaGoraniIsParentOfGorani.
 zazaGoraniIsParentOfZazaki.
-.
 achaeanIsProtoLanguage.
 aeolicIsProtoLanguage.
 anatolianIsProtoLanguage.
