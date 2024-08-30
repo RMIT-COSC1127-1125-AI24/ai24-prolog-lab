@@ -1,6 +1,6 @@
 # AI24 Prolog Lab
 
-This repository contains all of the Prolog code for Harry Porter's AI24 Prolog lab. All exercises are contained in the `lab-exercises.pl` file.
+This repository contains all of the Prolog code for Harry Porter's AI24 Prolog lab. All exercises are contained in the `lab-exercises.pl` file. Slides can be found [HERE](https://docs.google.com/presentation/d/1v4VheQV_1av5fuA6vZA9DPMU3qkdDzi-m534i1oMG6M/edit#slide=id.p).
 
 ## Databases
 
